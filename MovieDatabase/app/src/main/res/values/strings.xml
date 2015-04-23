@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieDatabase</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="view_button_text">View</string>
+    <string name="next_button_text">Next</string>
+    <string name="title_activity_movie_web">MovieWebActivity</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_edit"></string>
+    <string name="menu_web"></string>
+    <string name="movie_title_text">Title</string>
+    <string name="movie_genre_text">Genre</string>
+    <string name="movie_url_text">URL</string>
+    <string name="movie_watched_text">Movie Watched</string>
+    <string name="movie_rating_text">Rating</string>
+
+</resources>
